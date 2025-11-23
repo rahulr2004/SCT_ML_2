@@ -156,7 +156,7 @@ jupyter notebook SCT_ML_2_Customer_Segmentation.ipynb
 ### **Rahul R**  
 Machine Learning Intern – SkillCraft Technology  
 📧 **rahulheamanth2004@gmail.com**  
-🔗 LinkedIn: **https://www.linkedin.com/in/rahulr**
+🔗 LinkedIn: **https://www.linkedin.com/in/rahul-r2004**
 
 ---
 
