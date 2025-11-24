@@ -160,10 +160,6 @@ Machine Learning Intern – SkillCraft Technology
 
 ---
 
-## 📄 License
-MIT License – Free to use for learning.
-
----
 
 ## 🙏 Acknowledgments
 
